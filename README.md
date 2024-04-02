@@ -3,8 +3,9 @@
 #### Technical Skills: Python, SQL, Power BI, Django, Microsoft Azure.
 
 ## Education				       		
-- M.Eng., Data Science	| Carleton University at Ottawa,Canada. (_April 2022_)	 			        		
-- B.Tech, Electronics and Communication Engineering |Vignan's Institute of Engineering at Visakhapatnam,India. (_April 2018_)
+- M.Eng, Data Science	| Carleton University
+  Ottawa, Canada. (_April 2022_)	 			        		
+- B.Tech, Electronics and Communication Engineering | Vignan's Institute of Engineering Visakhapatnam, India. (_April 2018_)
 
 ## Work Experience
 **Data Science Researcher @ Carleton University (_Sep 2022 - Feb 2024_)**
